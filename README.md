@@ -13,3 +13,15 @@ This is a HTML practice code.
 10. tut10.html :- In this file creating multiple element using element tag.
 11. tut11.html :- In this file we learn html entities.
 12. tut12.html :- In this file we learn html symantic tag.
+13. tut13.html :- In this file we learn Internal css and Inline css.
+14. tut13.css :- In this file we learn External css.
+15. tut14.html :- In this file we learn css selector.
+16. tut16.htnl :- In this file we learn Developer Tools.
+17. tut17.html :- In this file we learn css fonts.
+18. tut18.html :-In this file we learn color in css.
+20. tut19.html :-In this file we learn how to set Height,Width,Borders and Background.
+21. tut20.html :-In this file we learn Box-model in css.
+22. tut21.html :-In this file we learn Alignments in css.
+23. tut22.html :-In this file we learn pseddu selectors & more designing in css.
+24. tut23.html :-In this file we learn navigation in css.
+25. tut24.html :-In this file we learn displyay propert in css.
